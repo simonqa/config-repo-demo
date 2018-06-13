@@ -2,4 +2,4 @@ info:
   profile: dev
   from: git
   
-test: simon-2.0
+test: simon-1.0
